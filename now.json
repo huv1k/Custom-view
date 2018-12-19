@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "customviews",
+  "builds": [{ "src": "*.js", "use": "@now/node" }]
+}
